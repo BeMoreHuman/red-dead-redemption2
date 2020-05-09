@@ -1,2 +1,4 @@
 # red-dead-redemption2
-web site concept
+
+
+Inspired by [Manuel Rovira work](https://www.behance.net/gallery/71028347/Red-Dead-Redemption-2)
